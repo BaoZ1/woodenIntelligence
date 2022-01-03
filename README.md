@@ -1,1 +1,1 @@
-# woodenInteligence
+# woodenIntelligence
